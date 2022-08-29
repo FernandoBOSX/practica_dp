@@ -8,3 +8,7 @@ y para el caso de PHP lo mostrara tanto en consola como en un archivo .json
 
 EJERCICIO 3
 1.- Al iniciar mostrara una pagina WEB previamente seleccionada desde donde se podra navegar al igual que el navegador.
+
+EJERCICIO 2
+1.- Se creo un formulario con los campos requeridos, un botón para guardar la información y se agrego una conexión generica para ejecutar la consulta en la bd MySQL
+solo hice una parte de este ejercicio por falta de tiempo y ambientación lo cual estaba tardando bastante.
